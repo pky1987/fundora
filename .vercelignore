@@ -1,0 +1,14 @@
+artifacts/
+cache/
+contracts/
+ignition/
+test/
+scripts/
+hardhat.config.ts
+package.json
+package-lock.json
+eslint.config.js
+debug-hre.js
+README.md
+.env
+encyrpted_key.txt
